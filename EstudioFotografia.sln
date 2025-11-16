@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudioFotografia", "Estudi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudioFotografia.Infrastructure", "..\EstudioFotografia.Infrastructure\EstudioFotografia.Infrastructure\EstudioFotografia.Infrastructure.csproj", "{160F582F-9687-2267-72A7-F5B9E73378D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudioFotografia.Application", "..\EstudioFotografia.Application\EstudioFotografia.Application\EstudioFotografia.Application.csproj", "{2847E390-E9D4-F344-1CBC-F2592DE182FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{160F582F-9687-2267-72A7-F5B9E73378D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{160F582F-9687-2267-72A7-F5B9E73378D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{160F582F-9687-2267-72A7-F5B9E73378D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2847E390-E9D4-F344-1CBC-F2592DE182FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2847E390-E9D4-F344-1CBC-F2592DE182FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2847E390-E9D4-F344-1CBC-F2592DE182FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2847E390-E9D4-F344-1CBC-F2592DE182FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
